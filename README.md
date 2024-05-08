@@ -1,7 +1,7 @@
 <p>Olá! Eu sou João Paulo, um desenvolvedor frontend apaixonado por criar experiências digitais incríveis.</p>
-<br>
-<p>Atualmente, trabalho como policial militar, sou formado em Análise e desenvolvimento de Sistemas, e estou cursando Engenharia de Software, estou estudando e me dedicando para transformar ideias em produtos web elegantes e funcionais. Minhas principais áreas de expertise incluem:</p>
-<br>
+
+Atualmente, trabalho como policial militar, sou formado em Análise e desenvolvimento de Sistemas, e estou cursando Engenharia de Software, estou estudando e me dedicando para transformar ideias em produtos web elegantes e funcionais. Minhas principais áreas de expertise incluem:
+
 Desenvolvimento web responsivo.
 HTML, CSS e JavaScript.
 Desenvolvimento de interfaces de usuário (UI) atraentes e interativas.
