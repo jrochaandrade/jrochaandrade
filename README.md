@@ -11,7 +11,7 @@ Além disso, sou um entusiasta de tecnologia que adora estar atualizado com as t
 
 Sinta-se à vontade para entrar em contato comigo por meio do LinkedIn ou pelo meu email devrochajp@gmail.com.</p>
 
-<p>Link do meu último projeto <a href="https://www.devrocha.com.br/mapa" target="_blank"></a>Projeto Mapa interativo</p>
+<p>Link do meu último projeto <a href="https://www.devrocha.com.br/mapa" target="_blank">Mapa interativo</a></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrochaandrade&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrochaandrade&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
