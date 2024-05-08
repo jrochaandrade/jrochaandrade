@@ -5,17 +5,12 @@ Atualmente, trabalho como policial militar, sou formado em Análise e desenvolvi
 Desenvolvimento web responsivo.
 HTML, CSS e JavaScript.
 Desenvolvimento de interfaces de usuário (UI) atraentes e interativas.
-Frameworks e bibliotecas populares, como React, Angular e Vue.js.
-Design de interfaces de usuário (UI) e colaboração próxima com designers.
-Otimização de desempenho e SEO.
+Frameworks e bibliotecas populares, como Laravel, React, Angular e Vue.js.
 
 Além disso, sou um entusiasta de tecnologia que adora estar atualizado com as tendências mais recentes da web. Sempre estou buscando novas maneiras de melhorar minhas habilidades e oferecer soluções inovadoras aos problemas que encontro.
 
-Vamos nos conectar! Se você é um colega desenvolvedor, designer, recrutador ou alguém interessado em tecnologia, estou sempre aberto a novas conexões e oportunidades de colaboração.
+Sinta-se à vontade para entrar em contato comigo por meio do LinkedIn ou pelo meu email devrochajp@gmail.com. Estou ansioso para conhecer mais pessoas apaixonadas pelo mundo da web!</p>
 
-Sinta-se à vontade para entrar em contato comigo por meio do LinkedIn ou pelo meu email devrochajp@gmail.com. Estou ansioso para conhecer mais pessoas apaixonadas pelo mundo da web!
-
-#DesenvolvimentoFrontend #WebDevelopment #UI #UX #JavaScript #React #CSS #HTML5</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrochaandrade&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrochaandrade&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
