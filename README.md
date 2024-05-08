@@ -1,4 +1,4 @@
-<div><p>Olá! Eu sou João Paulo, um desenvolvedor frontend apaixonado por criar experiências digitais incríveis.</p>
+<p>Olá! Eu sou João Paulo, um desenvolvedor frontend apaixonado por criar experiências digitais incríveis.</p>
 
 Atualmente, trabalho como policial militar, sou formado em Análise e desenvolvimento de Sistemas, e estou cursando Engenharia de Software, estou estudando e me dedicando para transformar ideias em produtos web elegantes e funcionais. Minhas principais áreas de expertise incluem:
 
@@ -12,7 +12,7 @@ Além disso, sou um entusiasta de tecnologia que adora estar atualizado com as t
 Sinta-se à vontade para entrar em contato comigo por meio do LinkedIn ou pelo meu email devrochajp@gmail.com.</p>
 
 <p>Link do meu último projeto <a href="https://www.devrocha.com.br/mapa" target="_blank">Mapa interativo</a>.</p>
-</div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrochaandrade&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrochaandrade&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
