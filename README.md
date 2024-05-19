@@ -4,8 +4,7 @@ Atualmente, trabalho como policial militar, sou formado em Análise e desenvolvi
 
 Desenvolvimento web responsivo.
 HTML, CSS e JavaScript.
-Desenvolvimento de interfaces de usuário (UI) atraentes e interativas.
-Frameworks e bibliotecas populares, como Laravel, React, Angular e Vue.js.
+Conhecimento em PHP para backend e Mysql para banco de dados.
 
 Além disso, sou um entusiasta de tecnologia que adora estar atualizado com as tendências mais recentes da web. Sempre estou buscando novas maneiras de melhorar minhas habilidades e oferecer soluções inovadoras aos problemas que encontro.
 
